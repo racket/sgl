@@ -1,4 +1,4 @@
-;; $Id: gears.ss,v 1.7 2005/01/12 12:48:30 mflatt Exp $
+;; $Id: gears.ss,v 1.8 2005/01/12 12:49:10 mflatt Exp $
 ;;
 ;; This is a version of the venerable "gears" demo for PLT Scheme 200 using
 ;; Scott Owens' SGL OpenGL bindings.  It was ported from "glxgears.c" 1.3 from
